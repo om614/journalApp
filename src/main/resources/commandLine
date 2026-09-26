@@ -1,0 +1,5 @@
+in this properties cn be given to the command line by running jar file
+
+syntax: java -jar jarFileName -- server.port=9090
+
+this will be having the most priority than properties and yml file

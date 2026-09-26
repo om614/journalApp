@@ -1,0 +1,9 @@
+#its properties will be getting more preference than the yml file
+
+#spring.mongodb.uri=mongodb+srv://raturiom28_db_user:1234abcd@cluster0.5y8qsmo.mongodb.net/?appName=Cluster0
+#spring.mongodb.database=journalDb
+#server.port=8081
+#spring.data.mongodb.auto-index-creation=true
+#
+##spring.data.mongodb.username=xyz
+##spring.data.mongodb.password=xyz
